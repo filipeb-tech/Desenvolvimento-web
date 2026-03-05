@@ -1,2 +1,2 @@
 # Desenvolvimento-web
-Atividades da matéria
+Atividades da disciplina
